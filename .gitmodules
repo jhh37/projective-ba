@@ -1,0 +1,3 @@
+[submodule "Code/Toolboxes/awful"]
+	path = Code/Toolboxes/awful
+	url = https://git01.codeplex.com/awful
