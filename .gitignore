@@ -1,0 +1,18 @@
+# Windows XP
+Thumbs.db
+
+# Mac
+.DS_Store
+
+# Mex files
+*.mexa64
+*.mexglx
+*.mexmaci64
+*.mexw32
+*.mexw64
+
+# Results folder
+Datasets
+Results
+Codes/Temp
+
