@@ -15,6 +15,9 @@ git clone --recursive https://github.com/jhh37/projective-ba
 ```
 
 ## Code
+Our current code is very slow. We aim to use Ceres
+to increase the speed and allow multithreading.
+
 ### A how-to-run demo
 You may run the script [ run_demo.m ] inside the [
 Code ] folder.
