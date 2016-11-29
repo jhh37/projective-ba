@@ -39,5 +39,4 @@ Research Europe and JNE Systech.
 - The conference travel was funded by the British
 Machine Vision Association (BMVA), Cambridge
 University Engineering Department (Ford of British
-Trust), Christ's College (University of Cambridge)
-and Cambridge Philosophical Society.
+Trust) and Christ's College (University of Cambridge).
