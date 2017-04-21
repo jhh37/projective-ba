@@ -33,7 +33,7 @@ paths and compile required mex files.
 2. All commands must run in the [ Code ]
 directory.
 
-## Acknowledgment
+## Acknowledgement
 - The work was supported by Microsoft, Toshiba
 Research Europe and JNE Systech.
 - The conference travel was funded by the British
